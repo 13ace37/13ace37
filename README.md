@@ -1,3 +1,4 @@
+
 ![](https://osu.xace.ch/banner.png)
 <p align="center">
          <h3 align="center">
@@ -27,3 +28,12 @@ Hello, I'm Riccardo better known as ace.  I'm an automation engineer who likes t
 - Co-Owner & [Developer](https://z4lab.com/github) of [z4lab](https://z4lab.com)
 - Designer
 - Anime addict
+
+
+
+#### Art refference
+- [**Banner**](https://osu.xace.ch/banner.png)  
+  Self created for my [osu!profile](https://osu.xace.ch). Girl: [Shalltear Bloodfallen](https://overlordmaruyama.fandom.com/wiki/Shalltear_Bloodfallen) [Original](https://osu.xace.ch/src/shalltear.jpg) edited by me.
+- [**Avatar**](https://osu.xace.ch/pp.png)  
+  Self edit. Girl: [Liu Xuelan](https://darwins-game.fandom.com/wiki/Liu_Xuelan) [Original](https://osu.xace.ch/src/xuelan.jpg) edited by me.
+  
