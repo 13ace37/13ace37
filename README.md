@@ -31,7 +31,7 @@ Hello, I'm Riccardo better known as ace.  I'm an automation engineer who likes t
 
 
 
-#### Art refference
+#### Art reference
 - [**Banner**](https://osu.xace.ch/banner.png)  
   Self created for my [osu!profile](https://osu.xace.ch). Girl: [Shalltear Bloodfallen](https://overlordmaruyama.fandom.com/wiki/Shalltear_Bloodfallen) [Original](https://osu.xace.ch/src/shalltear.jpg) edited by me.
 - [**Avatar**](https://osu.xace.ch/pp.png)  
