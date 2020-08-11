@@ -9,6 +9,12 @@
 ---
 Hello, I'm Riccardo better known as ace.  I'm an automation engineer who likes to code back-end stuff with javascript and I mostly work alone on small projects. 
 
+
+<p align="center">
+         <img src="https://github-readme-stats.vercel.app/api?username=13ace37&title_color=5E81AC&bg_color=2E3440&text_color=ECEFF4&icon_color=EBCB8B&include_all_commits=true&show_icons=true&count_private=true&hide=css" height="170" />
+</p>
+
+
 ### Projects I care a little bit about:
 
 - [**express-fastdl**](https://github.com/13ace37/express-fastdl)  
