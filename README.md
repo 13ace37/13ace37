@@ -19,6 +19,9 @@ Hello, I'm Riccardo better known as ace.  I'm an automation engineer who likes t
 
 - [**express-fastdl**](https://github.com/13ace37/express-fastdl)  
   A lightweight, express.js based fastdl host for source games.
+  
+- [**kemal-fastdl**](https://github.com/13ace37/kemal-fastdl)  
+  A lightweight, kemalcr based fastdl host for source games.
 
 - [**surftimer-discord-rpc**](https://github.com/13ace37/surftimer-discord-rpc)  
   A discord rich-presense for the csgo surftimer.
