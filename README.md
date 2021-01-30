@@ -1,6 +1,5 @@
 
 <p align="center">
-         <img src="https://osu.xace.ch/wide.png"/>
          <h3 align="center">
 	      German hobby back-end developer based in Switzerland. 
      </h3>
