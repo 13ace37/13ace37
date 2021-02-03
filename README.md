@@ -11,6 +11,7 @@ Hello, I'm Riccardo better known as ace.  I'm an automation engineer who likes t
 
 <p align="center">
          <img src="https://github-readme-stats.vercel.app/api?username=13ace37&title_color=5E81AC&bg_color=2E3440&text_color=ECEFF4&icon_color=EBCB8B&include_all_commits=true&show_icons=true&count_private=true&hide=css" height="170" />
+	</br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13ace37&title_color=5E81AC&bg_color=2E3440&text_color=ECEFF4&icon_color=EBCB8B&include_all_commits=true&show_icons=true&count_private=true&hide=css&layout=compact">
 </p>
 
 
