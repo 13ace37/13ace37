@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="https://cdn.xace.ch/vNR4BrBQgFY.png"/>
+	<img src="https://cdn.xace.ch/vNR4BrBQgFC.png"/>
         <h3 align="center">
 	      Welcome.
      	</h3>
