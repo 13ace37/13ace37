@@ -29,6 +29,6 @@ Hello, I'm Riccardo better known as ace.  I'm an automation engineer who likes t
 
 ### Some irrelevant infos:
 
-- ex. Co-Owner & [Developer](https://github.com/z4lab) of z4lab
-- Designer
-- Anime addict
+- [Head Developer](https://github.com/z4lab) and former Co-Owner of z4lab
+- Trash 2D Designer
+- Anime/Manga enthusiast 
