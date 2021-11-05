@@ -26,6 +26,9 @@ Hello, I'm Riccardo better known as ace.  I'm an automation engineer who likes t
 
 - [**horizon-integration**](https://github.com/13ace37/horizon-integration)  
   A game integration for the horizon surf/bhop servers, meant for streaming.
+  
+- [**ibn-tools**](https://github.com/krpfiffner/ibn-tools)  
+  A toolset for my team at work.
 
 ### Some irrelevant infos:
 
