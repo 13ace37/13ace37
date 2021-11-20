@@ -1,7 +1,7 @@
 
-<p align="center">
+<a href="https://xace.ch" target="_blank" align="center">
 	<img src="https://cdn.xace.ch/LVzg2iju0aGD2LcXCgOFMnLdL.png"/>
-</p>
+</a>
 
 ---
 Welcome to my Github Profile. My name is Riccardo or in simple ace. I currently work as a Software & Application Engineer at [__K.R. Pfiffner__](https://www.pfiffner.com). I also host and manage the open source scripts for [pfiffner.cc](https://pfiffner.cc) and [K.R. Pfiffner OpenSource](https://github.com/krpfiffner).
