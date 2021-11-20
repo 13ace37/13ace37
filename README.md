@@ -1,37 +1,25 @@
 
 <p align="center">
-	<img src="https://cdn.xace.ch/vNR4BrBQgFC.png"/>
-        <h3 align="center">
-	      Welcome.
-     	</h3>
+	<img src="https://cdn.xace.ch/LVzg2iju0aGD2LcXCgOFMnLdL.png"/>
 </p>
 
 ---
-Hello, I'm Riccardo better known as ace.  I'm an automation engineer who likes to code back-end stuff with javascript and I mostly work alone on small projects. 
+Welcome to my Github Profile. My name is Riccardo or in simple ace. I currently work as a Software & Application Engineer at [__K.R. Pfiffner__](https://www.pfiffner.com). I also host and manage the open source scripts for [pfiffner.cc](https://pfiffner.cc) and [K.R. Pfiffner OpenSource](https://github.com/krpfiffner).
 
-
-### Projects I care a little bit about:
-
-- [**express-fastdl**](https://github.com/13ace37/express-fastdl)  
-  A lightweight, express.js based fastdl host for source games.
-  
-- [**kemal-fastdl**](https://github.com/13ace37/kemal-fastdl)  
-  A lightweight, kemalcr based fastdl host for source games.
-
-- [**surftimer-discord-rpc**](https://github.com/13ace37/surftimer-discord-rpc)  
-  A discord rich-presense for the csgo surftimer.
-
-- [**horizon-discord**](https://github.com/13ace37/horizon-discord)  
-  A discord rich-presense for the horizon surf/bhop servers.
-
-- [**horizon-integration**](https://github.com/13ace37/horizon-integration)  
-  A game integration for the horizon surf/bhop servers, meant for streaming.
-  
-- [**ibn-tools**](https://github.com/krpfiffner/ibn-tools)  
-  A toolset for my team at work.
-
-### Some irrelevant infos:
+### Other facts:
 
 - [Head Developer](https://github.com/z4lab) and former Co-Owner of z4lab
 - Trash 2D Designer
 - Anime/Manga enthusiast 
+
+### Programming Languages i worked with:
+
+_i don't really focus on any of those besides js - so if the laguage is listed here i'm not a pro using it :)_
+
+- JS (mostly Node)
+- SourcePawn ([SurfTimer](https://github.com/z4lab/z4lab-surftimer))
+- C# (.NET Core)
+- Ruby
+- Crystal
+- Python
+- PHP
