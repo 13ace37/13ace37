@@ -1,6 +1,6 @@
 
 <a href="https://xace.ch" target="_blank" align="center">
-	<img src="https://cdn.xace.ch/LVzg2iju0aGD2LcXCgOFMnLdL.png"/>
+	<img src="https://cdn.xace.ch/IvRp8mbhZOfQmcsMzZ47KbCru.png"/>
 </a>
 
 ---
@@ -14,7 +14,7 @@ Welcome to my Github Profile. My name is Riccardo or in simple ace. I currently 
 
 ### Programming Languages i worked with:
 
-_i don't really focus on any of those besides js - so if the laguage is listed here i'm not a pro using it :)_
+_i don't really focus on any of those besides js - so if the language is listed here i'm not a pro using it :)_
 
 - JS (mostly Node)
 - SourcePawn ([SurfTimer](https://github.com/z4lab/z4lab-surftimer))
@@ -23,3 +23,8 @@ _i don't really focus on any of those besides js - so if the laguage is listed h
 - Crystal
 - Python
 - PHP
+
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=13ace37&theme=github_dark">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=13ace37&layout=compact&theme=github_dark">
+</p>
