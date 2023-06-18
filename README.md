@@ -1,6 +1,6 @@
 
 <a href="https://xace.ch" target="_blank" align="center">
-	<img src="https://cdn.xace.ch/Tagyxo9Njng5sqeq31aC2Q3lN.png"/>
+	<img src="https://xace.ch/img/banner.png"/>
 </a>
 
 ---
