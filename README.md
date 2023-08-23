@@ -4,18 +4,18 @@
 </a>
 
 ---
-Welcome to my Github Profile. My name is Riccardo or in simple ace. I currently work as a Software & Application Engineer at [__K.R. Pfiffner__](https://www.pfiffner.com). 
+**Greetings and Welcome to My GitHub Profile!** You may call me Riccardo, or if you prefer, simply "ace." Presently, I occupy the role of a Software & Application Engineer at the esteemed [**K.R. Pfiffner**](https://www.pfiffner.com).
 
-### Other facts:
+### A Few Additional Particulars:
 
-- former [Head Developer](https://github.com/z4lab) & Co-Owner for z4lab
-- Trash 2D Designer
-- Anime/Manga enthusiast 
+- Formerly served as the Head Developer and Co-Owner at [**z4lab**](https://github.com/z4lab).
+- Proficiently skilled in the realm of 2D Design, with a penchant for transforming the mundane into artistic treasures.
+- An ardent enthusiast of the captivating worlds found within the realms of Anime and Manga.
 
-### Things I work(ed) with
+### My Proficiency Encompasses:
 
-_This list is not fully complete neither does this mean I'm a pro at using all of these!_
-_But I worked with all of them to a point where I can say that I know what I'm doing._
+_This compendium is not exhaustive in nature, nor does it purport to render me an expert in all these domains. Nevertheless, I have engaged with each of these elements sufficiently to assert a degree of proficiency._
+
 
 #### Development
 
